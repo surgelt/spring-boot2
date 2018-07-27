@@ -1,0 +1,8 @@
+server:
+  port: 8082
+  undertow: 
+    io-threads: 16
+    worker-threads: 2560
+    buffer-size: 1024
+    buffers-per-region: 1024
+    direct-buffers: true

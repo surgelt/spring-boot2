@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.spring.boot2.upload.file.storage.StorageProperties",
+      "name": "storage",
+      "type": "org.spring.boot2.upload.file.storage.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.spring.boot2.upload.file.storage.StorageProperties",
+      "name": "storage.location",
+      "description": "Folder location for storing files",
+      "type": "java.lang.String"
+    }
+  ]
+}

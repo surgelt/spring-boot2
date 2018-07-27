@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.spring.boot2.first.entity.GirlProperties",
+      "name": "girl",
+      "type": "org.spring.boot2.first.entity.GirlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.spring.boot2.first.entity.GirlProperties",
+      "name": "girl.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.spring.boot2.first.entity.GirlProperties",
+      "name": "girl.name",
+      "type": "java.lang.String"
+    }
+  ]
+}

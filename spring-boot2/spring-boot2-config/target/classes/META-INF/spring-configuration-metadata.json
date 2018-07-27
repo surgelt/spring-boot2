@@ -1,0 +1,62 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.spring.boot2.config.bean.User",
+      "name": "com.forezp",
+      "type": "org.spring.boot2.config.bean.User"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.ConfigBean",
+      "name": "my",
+      "type": "org.spring.boot2.config.bean.ConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.spring.boot2.config.bean.User",
+      "name": "com.forezp.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.User",
+      "name": "com.forezp.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.ConfigBean",
+      "name": "my.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.ConfigBean",
+      "name": "my.greeting",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.ConfigBean",
+      "name": "my.max",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.ConfigBean",
+      "name": "my.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.ConfigBean",
+      "name": "my.number",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.ConfigBean",
+      "name": "my.uuid",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.spring.boot2.config.bean.ConfigBean",
+      "name": "my.value",
+      "type": "java.lang.String"
+    }
+  ]
+}
